@@ -13,3 +13,5 @@ npm/platforms/*/leaf.exe
 
 # Logs
 *.log
+config.bat
+node_modules
